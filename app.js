@@ -108,3 +108,4 @@ destroyBtn.addEventListener("click", onDestroyClick);
 eraseBtn.addEventListener("click", onEraseClick);
 //깃허브 연습
 const Github = 10;
+const Github2 = 10;
